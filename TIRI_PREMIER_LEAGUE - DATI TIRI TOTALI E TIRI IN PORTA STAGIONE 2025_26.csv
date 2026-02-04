@@ -1,21 +1,21 @@
 Squadra;Partite Casa;Tiri Fatti Casa;Tiri Subiti Casa;Tiri in porta Fatti Casa;Tiri in porta Subiti Casa;Partite Trasferta;Tiri Fatti Trasferta;Tiri Subiti Trasferta;Tiri in porta Fatti Trasferta;Tiri in porta Subiti Trasferta
-Arsenal;12;195;73;59;20;11;180;109;54;29
-Aston Villa;11;137;126;54;47;12;140;171;49;49
-Bournemouth;12;162;111;51;35;11;150;180;61;72
-Brentford;12;135;151;52;48;11;106;127;43;44
-Brighton & Hove Albion;11;161;119;56;43;12;146;170;51;48
-Burnley;12;111;191;33;73;11;92;202;35;67
-Chelsea;11;158;121;50;41;12;150;137;59;47
-Crystal Palace;12;158;127;52;45;11;107;140;38;51
-Everton;12;146;135;44;52;11;101;182;28;44
-Fulham;12;155;124;44;42;11;116;141;39;51
-Leeds United;11;167;121;52;32;12;129;151;43;59
-Liverpool;11;201;110;57;34;12;154;135;42;50
-Manchester City;12;191;102;75;31;11;132;113;42;45
-Manchester United;11;190;107;68;36;12;182;149;61;48
-Newcastle United;12;171;136;69;51;11;128;113;38;40
-Nottingham Forest;11;155;143;42;48;12;118;150;45;47
-Sunderland;11;115;133;40;42;12;107;199;34;63
-Tottenham Hotspur;11;132;117;42;41;12;121;150;47;50
-West Ham United;12;129;163;44;60;11;111;183;35;64
-Wolverhampton Wanderers;11;105;131;39;50;12;103;172;31;51
+Arsenal;12;195;73;59;20;12;163;112;62;30
+Aston Villa;12;164;132;59;49;12;140;171;49;49
+Bournemouth;12;162;111;51;35;12;159;197;65;79
+Brentford;12;135;151;52;48;12;112;154;45;49
+Brighton & Hove Albion;12;172;126;58;47;12;146;170;51;48
+Burnley;12;111;191;33;73;12;97;216;35;72
+Chelsea;12;172;132;56;47;12;150;137;59;47
+Crystal Palace;12;158;127;52;45;12;121;149;41;52
+Everton;12;146;135;44;52;12;108;193;32;46
+Fulham;12;155;124;44;42;12;130;154;45;57
+Leeds United;12;170;136;53;41;12;129;151;43;59
+Liverpool;12;218;118;64;36;12;154;135;42;50
+Manchester City;12;191;102;75;31;12;147;125;45;51
+Manchester United;12;203;121;74;42;12;182;149;61;48
+Newcastle United;12;171;136;69;51;12;136;130;40;47
+Nottingham Forest;12;164;157;43;51;12;118;150;45;47
+Sunderland;12;129;138;45;42;12;107;199;34;63
+Tottenham Hotspur;12;144;132;48;44;12;121;150;47;50
+West Ham United;12;129;163;44;60;12;122;197;41;70
+Wolverhampton Wanderers;12;122;140;46;54;12;103;172;31;51
