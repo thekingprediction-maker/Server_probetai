@@ -1,21 +1,21 @@
-Squadra;Partite Casa;Tiri Fatti Casa;Tiri Subiti Casa;Tiri in porta Fatti Casa;Tiri in porta Subiti Casa;Partite Trasferta;Tiri Fatti Trasferta;Tiri Subiti Trasferta;Tiri in porta Fatti Trasferta;Tiri in porta Subiti Trasferta
-Arsenal;14;223;87;69;26;16;207;146;75;40
-Aston Villa;15;204;170;68;64;14;161;200;58;60
-Bournemouth;15;216;131;67;45;14;180;233;74;88
-Brentford;14;160;169;58;57;15;144;195;59;58
-Brighton & Hove Albion;15;204;153;70;57;14;166;198;61;52
-Burnley;14;141;213;41;84;15;122;263;44;82
-Chelsea;14;203;148;62;53;15;189;169;76;59
-Crystal Palace;14;193;147;58;55;15;145;188;52;69
-Everton;15;188;162;59;61;14;133;223;40;56
-Fulham;15;199;162;56;49;14;156;179;52;64
-Leeds United;15;216;169;64;53;14;147;186;49;67
-Liverpool;14;251;146;75;47;15;207;168;56;57
-Manchester City;15;240;138;94;45;14;178;154;57;57
-Manchester United;14;246;136;95;46;15;216;180;72;60
-Newcastle United;15;216;170;85;66;14;170;161;52;56
-Nottingham Forest;14;217;174;55;58;15;156;199;59;66
-Sunderland;14;152;173;49;49;15;123;254;42;78
-Tottenham Hotspur;15;178;182;59;60;14;141;191;49;64
-West Ham United;14;156;182;50;68;15;148;246;52;87
-Wolverhampton Wanderers;16;151;199;56;76;14;122;221;41;64
+Squadra;Partite Casa;Tiri Fatti Casa;Tiri Subiti Casa;Tiri in porta Fatti Casa;Tiri in porta Subiti Casa;Partite Trasferta;Tiri Fatti Trasferta;Tiri Subiti Trasferta;Tiri in porta Fatti Trasferta;Tiri in porta Subiti Trasferta;
+Arsenal;15;248;96;76;29;16;207;146;75;40;
+Aston Villa;15;204;170;68;64;15;170;216;60;66;
+Bournemouth;15;216;131;67;45;15;202;248;77;90;
+Brentford;15;170;182;61;61;15;144;195;59;58;
+Brighton & Hove Albion;15;204;153;70;57;15;178;212;65;56;
+Burnley;15;156;235;43;87;15;122;263;44;82;
+Chelsea;15;225;155;65;58;15;189;169;76;59;
+Crystal Palace;15;204;157;58;58;15;145;188;52;69;
+Everton;15;188;162;59;61;15;142;248;43;63;
+Fulham;15;199;162;56;49;15;162;190;53;66;
+Leeds United;15;216;169;64;53;15;157;198;52;67;
+Liverpool;15;268;159;79;54;15;207;168;56;57;
+Manchester City;15;240;138;94;45;15;202;155;63;58;
+Manchester United;15;262;145;101;48;15;216;180;72;60;
+Newcastle United;15;216;170;85;66;15;177;183;57;59;
+Nottingham Forest;15;228;180;57;59;15;156;199;59;66;
+Sunderland;15;166;185;53;53;15;123;254;42;78;
+Tottenham Hotspur;15;178;182;59;60;15;154;208;56;68;
+West Ham United;15;157;206;51;74;15;148;246;52;87;
+Wolverhampton Wanderers;16;151;199;56;76;15;135;231;45;67;
